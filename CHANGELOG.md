@@ -3,6 +3,7 @@
 ## 2024.6.2 (WIP)
 * **Better Folder Icons**: add more folder icons, and rework the Module folder icon color when using the regular UI in light mode.
 * **Open In** actions: you can now open files with Associated Application. This additional action is enabled for IDEs prior to 2024 only, as it is already implemented by 2024+ IDEs.
+* fix usage of some JetBrains deprecated APIs.
 
 ## 2024.6.1 (2024/04/03)
 * feature: can make folder icons more visible (with no outline style) when using the New UI. You can also use this feature with the regular UI. Takes effect after IDE restart.
