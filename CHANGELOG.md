@@ -1,8 +1,9 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.6.2 (WIP)
+## 2024.7.1 (2024/04/17)
 * **Better Folder Icons**: add more folder icons, and rework the Module folder icon color when using the regular UI in light mode.
 * **Open In** actions: you can now open files with Associated Application. This additional action is enabled for IDEs prior to 2024 only, as it is already implemented by 2024+ IDEs.
+* feature: you can **open projects located in trusted locations directly via File > Trusted Locations**. You no longer need to select File > Open, then find projects location via the operating system's file manager.
 * fix usage of some JetBrains deprecated APIs.
 
 ## 2024.6.1 (2024/04/03)
