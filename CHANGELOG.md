@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.8.1 (planned for 2024/05/13)
+## 2024.8.1 (2024/05/13)
 * feature: you can **schedule GC on local JVMs**. May be useful when having multiple Gradle or Kotlin daemons consuming too much memory. You can choose to run GC on selected JVMs: all, or by filtering by JVM instance names. Please note the `jcmd` binary, which comes with any JDK (located the JDK's `bin` directory), has to be present in PATH. It should already be configured in your favourite Linux distro. On Windows, you may have to add the JDK's `bin` folder to the PATH environment variable manually. You can use any JDK, even an JBR, it should work with any JVMs versions from, at least, 8 to 21+.
 * add some missing Chinese translations.
 
