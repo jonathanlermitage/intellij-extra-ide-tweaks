@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.8.3 (planned for 2024/05/20)
+* greatly improve the detection of `jcmd`, which is used to schedule GC on local JVMs.
+
 ## 2024.8.2 (2024/05/14)
 * feature: you can **schedule GC on local JVMs**. May be useful when having multiple Gradle or Kotlin daemons consuming too much memory.
 * add some missing Chinese translations.
