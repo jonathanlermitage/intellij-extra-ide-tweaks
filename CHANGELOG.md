@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.8.4 (WIP)
+* fix an issue preventing from opening sensitive file when no other file is already opened in editor, even when user asks to open given sensitive file.
+
 ## 2024.8.3 (2024/05/22)
 * greatly improve the detection of `jcmd`, which is used to schedule GC on local JVMs.
 * schedule GC on local JVMs: add JetBrains' Remote Maven Server to the default list of JVMs.
