@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.8.4 (WIP)
+## 2024.8.4 (2024/05/27)
 * fix an issue preventing from opening sensitive file when no other file is already opened in editor, even when user asks to open given sensitive file.
 
 ## 2024.8.3 (2024/05/22)
