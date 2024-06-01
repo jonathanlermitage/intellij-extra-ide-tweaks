@@ -1,5 +1,11 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.8.6 (2024/06/03)
+* minor code rework.
+
+## 2024.8.5 (2024/05/30)
+* schedule GC on local JVMs: avoid infinite progress bar when jcmd (invoked to run GC on local JVMs) hangs, and kill it if needed.
+
 ## 2024.8.4 (2024/05/27)
 * fix an issue preventing from opening sensitive file when no other file is already opened in editor, even when user asks to open given sensitive file.
 
