@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.9.1 (WIP)
+* `File > Trusted Locations` now also displays projects in first-level subdirectories.
+
 ## 2024.8.6 (2024/06/03)
 * minor code rework.
 
