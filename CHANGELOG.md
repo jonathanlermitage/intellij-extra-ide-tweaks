@@ -3,6 +3,7 @@
 ## 2024.9.1 (WIP)
 * feature: **Favorite Projects**. Go to settings and add projects to favorites, organize them with groups, and gain fast access to your favorite projects via `File > Favorite Projects`.
 * `File > Trusted Locations` now also displays projects in first-level subdirectories.
+* minor code and UI rework.
 
 ## 2024.8.6 (2024/06/03)
 * minor code rework.
