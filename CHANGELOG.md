@@ -1,6 +1,9 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.8.7 (WIP)
+## 2024.9.1 (WIP)
+* feature: **Favorite Projects**. Go to settings and add projects to favorites, organize them with groups, and gain fast access to your favorite projects via `File > Favorite Projects`.
+
+## 2024.8.7 (2024/06/10)
 * `File > Trusted Locations` can now also display projects in first-level subdirectories. Disabled by default, you can enable this in settings.
 * improve the performance of `File > Trusted Locations` and run it in a background task. The list of projects found is computed at IDE start then it's cached until next IDE start, or if you refresh it by going to `File > Trusted Locations > Refresh from Disk`.
 * minor code and UI rework.
