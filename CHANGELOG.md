@@ -1,7 +1,7 @@
 # Extra IDE Tweaks Change Log
 
 ## 2024.8.8 (WIP)
-* schedule GC on local JVMs: kill jcmd processes if not responding. This can happen when jcmd is executed when your computer wakes up from sleep/hibernation.
+* schedule GC on local JVMs: kill `jcmd` processes if not responding. This can happen when `jcmd` is executed when your computer wakes up from sleep/hibernation.
 
 ## 2024.8.7 (2024/06/10)
 * `File > Trusted Locations` can now also display projects in first-level subdirectories. Disabled by default, you can enable this in settings.
@@ -12,7 +12,7 @@
 * minor code rework.
 
 ## 2024.8.5 (2024/05/30)
-* schedule GC on local JVMs: avoid infinite progress bar when jcmd (invoked to run GC on local JVMs) hangs, and kill it if needed.
+* schedule GC on local JVMs: avoid infinite progress bar when `jcmd` (invoked to run GC on local JVMs) hangs, and kill it if needed.
 
 ## 2024.8.4 (2024/05/27)
 * fix an issue preventing from opening sensitive file when no other file is already opened in editor, even when user asks to open given sensitive file.
