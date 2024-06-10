@@ -1,7 +1,7 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.9.1 (WIP)
-* feature: **Favorite Projects**. Go to settings and add projects to favorites, organize them with groups, and gain fast access to your favorite projects via `File > Favorite Projects`.
+## 2024.8.8 (2024/06/17)
+* schedule GC on local JVMs: kill jcmd processes if not responding. This can happen when jcmd is executed when your computer wakes up from sleep/hibernation.
 
 ## 2024.8.7 (2024/06/10)
 * `File > Trusted Locations` can now also display projects in first-level subdirectories. Disabled by default, you can enable this in settings.
