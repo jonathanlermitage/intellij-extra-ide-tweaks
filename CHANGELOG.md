@@ -1,7 +1,7 @@
 # Extra IDE Tweaks Change Log
 
 ## 2024.8.8 (WIP)
-* schedule GC on local JVMs: kill `jcmd` processes if not responding. This can happen when `jcmd` is executed when your computer wakes up from sleep/hibernation.
+* schedule GC on local JVMs: kill `jcmd` processes spawned by plugin if they are not responding. This can happen when `jcmd` processes are executed when your computer wakes up from sleep/hibernation.
 
 ## 2024.8.7 (2024/06/10)
 * `File > Trusted Locations` can now also display projects in first-level subdirectories. Disabled by default, you can enable this in settings.
