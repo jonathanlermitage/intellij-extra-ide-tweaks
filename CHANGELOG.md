@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.10.2 (2024/06/26)
+* make the `File > Favorite Projects` and `File > Trusted Locations` menus available even during indexing.
+
 ## 2024.10.1 (2024/06/26)
 * feature: **Favorite Projects**. Go to settings and add projects to favorites, organize them with groups, and gain fast access to your favorite projects via `File > Favorite Projects`.
 * settings: table lines can now be reordered.
