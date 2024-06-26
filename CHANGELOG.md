@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.10.2 (2024/06/26)
+## 2024.10.2 (WIP)
 * make the `File > Favorite Projects` and `File > Trusted Locations` menus available even during indexing.
 
 ## 2024.10.1 (2024/06/26)
