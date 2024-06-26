@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.10.2 (WIP)
+## 2024.11.1 (WIP)
 * feature: **reflect project health in colored project header** (new UI only). Inspired from plugin idea [IJPL-60836](https://youtrack.jetbrains.com/issue/IJPL-60836/).
 * make the `File > Favorite Projects` and `File > Trusted Locations` menus available during indexing.
 
