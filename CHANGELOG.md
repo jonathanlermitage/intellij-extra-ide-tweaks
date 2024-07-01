@@ -3,6 +3,7 @@
 ## 2024.11.1 (WIP)
 * make the `File > Favorite Projects` and `File > Trusted Locations` menus available during indexing.
 * minor performance improvements and enable future performance improvements for 2024+ IDEs (based on JBR21).
+* general stability improvements. Some internal concurrent components were not ideally synchronized, which could lead to minor performance degradations. This is now fixed.
 
 ## 2024.10.1 (2024/06/26)
 * feature: **Favorite Projects**. Go to settings and add projects to favorites, organize them with groups, and gain fast access to your favorite projects via `File > Favorite Projects`.
