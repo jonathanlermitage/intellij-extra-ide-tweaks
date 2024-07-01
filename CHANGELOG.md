@@ -1,8 +1,8 @@
 # Extra IDE Tweaks Change Log
 
 ## 2024.11.1 (WIP)
-* feature: **reflect project health in colored project header** (new UI only). Inspired from plugin idea [IJPL-60836](https://youtrack.jetbrains.com/issue/IJPL-60836/).
 * make the `File > Favorite Projects` and `File > Trusted Locations` menus available during indexing.
+* minor performance improvements and enable future performance improvements for 2024+ IDEs (based on JBR21).
 
 ## 2024.10.1 (2024/06/26)
 * feature: **Favorite Projects**. Go to settings and add projects to favorites, organize them with groups, and gain fast access to your favorite projects via `File > Favorite Projects`.
