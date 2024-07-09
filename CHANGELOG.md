@@ -2,6 +2,7 @@
 
 ## 2024.11.2 (WIP)
 * the **Open Editors** tool window is now using [JetBains' Tree](https://plugins.jetbrains.com/docs/intellij/lists-and-trees.html#jblist-and-tree) implementation instead of JTree, leading to some benefits like: drawing a tooltip with complete text of an item if the item doesn't fit into the list box width. It also integrates the **Speed Search** functionality, [similar to Speed Search for Tool Windows](https://www.jetbrains.com/help/idea/speed-search-in-the-tool-windows.html): type text when the Open Editors tool window has focus, and the selection moves to the first item that matches the specified string.
+* fix "Slow operations are prohibited on EDT" warnings when using the Open Editors tool window.
 
 ## 2024.11.1 (2024/07/08)
 * make the `File > Favorite Projects` and `File > Trusted Locations` menus available during indexing.
