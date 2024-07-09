@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.11.2 (WIP)
+* the **Open Editors** tool window now integrates the **Speed Search** functionality, [similar to Speed Search for Tool Windows](https://www.jetbrains.com/help/idea/speed-search-in-the-tool-windows.html). Open the Open Editors tool window or give it focus, type text, and the selection moves to the first item that matches the specified string.
+
 ## 2024.11.1 (2024/07/08)
 * make the `File > Favorite Projects` and `File > Trusted Locations` menus available during indexing.
 * Favorite Projects: add a menu item to re-open favorite projects while preserving their order of registration. Useful if you're in the habit of opening several projects systematically in the same order.
