@@ -1,7 +1,9 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.11.1 (WIP)
+## 2024.11.1 (2024/07/08)
 * make the `File > Favorite Projects` and `File > Trusted Locations` menus available during indexing.
+* Favorite Projects: add a menu item to re-open favorite projects while preserving their order of registration. Useful if you're in the habit of opening several projects systematically in the same order.
+* improve Tool Windows Label Override: reapply user's rules if IDE has reverted a tool window label (it can happen when enabling AI Assistant).
 * minor performance improvements and enable future performance improvements for 2024+ IDEs (based on JBR21).
 * general stability improvements. Some internal concurrent components were not ideally synchronized, which could lead to minor performance degradations. This is now fixed.
 
