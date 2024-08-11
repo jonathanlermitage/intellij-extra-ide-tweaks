@@ -1,5 +1,11 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.13.1 (WIP)
+* avoid an invisible error when closing a project or the IDE. This error had no impact other than to pollute the IDE logs.
+* add an option to disable the plugin's features. Use it if you installed Extra Tools pack, but you don't want Extra IDE Tweaks features.
+* improve translations.
+* translate the `Trusted Locations` and `Favorite Projects` menus in Chinese.
+
 ## 2024.12.1 (2024/07/21)
 * the **Open Editors** tool window is now using [JetBrains' Tree](https://plugins.jetbrains.com/docs/intellij/lists-and-trees.html#jblist-and-tree) implementation instead of JTree, leading to some benefits like a better UI. Drawing a tooltip with complete text of an item if the item doesn't fit into the list box width. It also integrates the **Speed Search** functionality, [similar to Speed Search for Tool Windows](https://www.jetbrains.com/help/idea/speed-search-in-the-tool-windows.html): type text when the Open Editors tool window has focus, and the selection moves to the first item that matches the specified string.
 * fix `Slow operations are prohibited on EDT` issues when using the Open Editors tool window in an EAP IDE.
