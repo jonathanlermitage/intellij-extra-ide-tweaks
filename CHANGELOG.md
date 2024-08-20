@@ -4,6 +4,7 @@
 * fix [#2](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/2): `Prevent Opening of Sensitive Files` is broken in 2024.2+ IDEs.
 * avoid an invisible error when closing a project or the IDE. This error had no impact other than to pollute the IDE logs.
 * add an option to disable the plugin's features. Use it if you installed Extra Tools pack, but you don't want Extra IDE Tweaks features.
+* add an option to disable the Open Editors tool window.
 * improve translations.
 * translate the `Trusted Locations` and `Favorite Projects` menus in Chinese.
 
