@@ -1,5 +1,9 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.14.1 (WIP)
+* make the `Tools > Extra IDE Tweaks...` and `Tools > Plugins...` menu items available while indexing.
+* improve translations: replace "regular UI" with "classic UI".
+
 ## 2024.13.1 (2024/08/20)
 * fix [#2](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/2): `Prevent Opening of Sensitive Files` is broken in 2024.2+ IDEs.
 * avoid an invisible error when closing a project or the IDE. This error had no impact other than to pollute the IDE logs.
