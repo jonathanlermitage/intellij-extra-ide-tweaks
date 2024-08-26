@@ -1,6 +1,8 @@
 # Extra IDE Tweaks Change Log
 
 ## 2024.14.1 (WIP)
+* improve compatibility when the Python plugin (Ultimate or Community) is installed.
+* **Better Folder Icons**: add an icon for the Python project.
 * make the `Tools > Extra IDE Tweaks...` and `Tools > Plugins...` menu items available while indexing.
 * improve translations: replace "regular UI" with "classic UI".
 
