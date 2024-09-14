@@ -1,6 +1,8 @@
 # Extra IDE Tweaks Change Log
 
 ## 2024.15.1 (WIP)
+* enable compatibility with 2024.3 IDEs.
+* improve compatibility with future IDEs (2024.3+).
 * add "Open as Project" to the folder's context menu from the Project tool window. The idea is to implement [IJPL-158161](https://youtrack.jetbrains.com/issue/IJPL-158161).
 * add the ability to have default Excluded Folders from indexing. There is now a global list of excluded folders. The idea is to implement [IJPL-8363](https://youtrack.jetbrains.com/issue/IJPL-8363).
 * minor code rework.
