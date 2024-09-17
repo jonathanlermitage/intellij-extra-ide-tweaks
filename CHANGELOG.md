@@ -1,11 +1,14 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.15.1 (WIP)
-* enable compatibility with 2024.3 IDEs.
+## 2024.15.2 (WIP)
+* fix `Prevent Opening of Sensitive Files` showing the file content during a brief instant. 
+* fix usage of some JetBrains deprecated APIs.
+
+## 2024.15.1 (2024/09/17)
 * improve compatibility with future IDEs (2024.3+).
 * add **Open as Project** to the folder's context menu from the Project tool window. The idea is to implement [IJPL-158161](https://youtrack.jetbrains.com/issue/IJPL-158161).
 * add the ability to have **default Excluded Folders** from indexing. There is now a global list of excluded folders. The idea is to implement [IJPL-8363](https://youtrack.jetbrains.com/issue/IJPL-8363).
-* **Better Tab Names**: add an option to remove the parenthesis after the file name if it's located in the root project or module. Per example, renames "build.gradle.kts (my-module)" to "build.gradle.kts". For now, it works with "build.gradle", "build.gradle.kts" and "META-INF/plugin.xml" files only.
+* **Better Tab Names**: add an option to remove the parenthesis after the file name if it's located in the root project or module. Per example, renames "build.gradle.kts (my-module)" to "build.gradle.kts". For now, it works with "build.gradle", "build.gradle.kts", "build.gradle.dcl", "settings.gradle", "settings.gradle.kts", "settings.gradle.dcl" and "src/main/resources/META-INF/plugin.xml" files only.
 * minor code rework.
 
 ## 2024.14.1 (2024/08/27)
