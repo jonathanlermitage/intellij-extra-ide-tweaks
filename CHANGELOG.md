@@ -1,7 +1,6 @@
 # Extra IDE Tweaks Change Log
 
 ## 2024.15.2 (WIP)
-* fix `Prevent Opening of Sensitive Files` showing the file content during a brief instant. 
 * fix usage of some JetBrains deprecated APIs.
 
 ## 2024.15.1 (2024/09/17)
