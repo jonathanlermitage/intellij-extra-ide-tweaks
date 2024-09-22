@@ -2,7 +2,8 @@
 
 ## 2024.15.2 (WIP)
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2024.3+).
-* rework the `Prevent Opening of Sensitive Files` feature. Because there is no official API for that, I was using a workaround, but recent updates broke it, making the file content visible during a brief instant. I found a new workaround that works with most IDE 2024.2.2 installations. BTW, this is still a workaround, and up-voting [IDEA-359327](https://youtrack.jetbrains.com/issue/IDEA-359327/Provide-an-API-to-prevent-file-opening) would greatly help.
+* rework the `Prevent Opening of Sensitive Files` feature. Because there is no official API for that, I was using a workaround, but recent updates made it less reliable, making (sometimes) the file content visible during a brief instant. I found a new workaround that works with most IDE 2024.2.2 installations. BTW, this is still a workaround, and up-voting [IDEA-359327](https://youtrack.jetbrains.com/issue/IDEA-359327/Provide-an-API-to-prevent-file-opening) would greatly help.
+* reduce the plugin size by removing the dependency to Apache Commons IO and by using custom code instead.
 
 ## 2024.15.1 (2024/09/17)
 * improve compatibility with future IDEs (2024.3+).
