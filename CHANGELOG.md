@@ -1,4 +1,7 @@
- # Extra IDE Tweaks Change Log
+# Extra IDE Tweaks Change Log
+
+## 2024.15.3 (WIP)
+* minor performance optimization.
 
 ## 2024.15.2 (2024/09/23)
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2024.3+).
