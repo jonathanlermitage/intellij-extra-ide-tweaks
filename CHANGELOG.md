@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.15.3 (WIP)
+## 2024.16.1 (WIP)
 * **Better Folder Icons** now supports the Kotlin Multiplatform OS folders from Extra Icons.
 * minor performance optimization.
 
