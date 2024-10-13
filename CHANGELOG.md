@@ -2,6 +2,8 @@
 
 ## 2024.16.1 (WIP)
 * **Better Folder Icons** now supports the Kotlin Multiplatform OS folders from Extra Icons.
+* add **Commit Alert**: this inspection allows you to define keywords that will show a confirmation dialog before committing changes containing any of those keywords. Per example, define the COMMIT_ALERT keyword, modify, delete or move one or multiple files containing it, then commit. A confirmation dialog will appear asking if you still want to commit.
+* add **Activate All Tool Windows**: this action activates all available tool windows in the current project. Activate it, then see `Window > Activate All Tool Windows` menu item. 
 * minor performance optimization.
 
 ## 2024.15.2 (2024/09/23)
