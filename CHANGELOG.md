@@ -6,6 +6,7 @@
 * add **Activate All Tool Windows**: this action activates all available tool windows in the current project. Enable it in settings, then see the `Window > Activate All Tool Windows` menu item. It's like clicking on the "..." button on the left-side toolbar, then clicking on each available tool window.
 * add options to show `Tools > Extra IDE Tweaks...` and `Tools > Plugins...` menu items.
 * minor performance optimization.
+* settings: a search field has been added for quicker access to the parameters you are looking for.
 * minor UI reworks in the settings panel.
 
 ## 2024.15.2 (2024/09/23)
