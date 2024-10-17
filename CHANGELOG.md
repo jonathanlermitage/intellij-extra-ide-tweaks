@@ -5,9 +5,9 @@
 * add **Commit Alert**: this inspection allows you to define keywords that will show a confirmation dialog before committing files containing any of those keywords. Per example, define the COMMIT_ALERT keyword, modify, delete or move one or multiple files containing it, then commit. A confirmation dialog will appear asking if you still want to commit.
 * add **Activate All Tool Windows**: this action activates all available tool windows in the current project. Enable it in settings, then see the `Window > Activate All Tool Windows` menu item. It's like clicking on the "..." button on the left-side toolbar, then clicking on each available tool window.
 * add options to show `Tools > Extra IDE Tweaks...` and `Tools > Plugins...` menu items.
-* minor performance optimization.
 * settings: a search field has been added for quicker access to the parameters you are looking for.
 * minor UI reworks in the settings panel.
+* minor performance optimization.
 
 ## 2024.15.2 (2024/09/23)
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2024.3+).
