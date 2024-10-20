@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.16.1 (WIP)
+## 2024.16.1 (2024/10/21)
 * **Better Folder Icons** now supports the Kotlin Multiplatform OS folders from Extra Icons.
 * add **Commit Alert**: this inspection allows you to define keywords that will show a confirmation dialog before committing files containing any of those keywords. Per example, define the COMMIT_ALERT keyword, modify, delete or move one or multiple files containing it, then commit. A confirmation dialog will appear asking if you still want to commit.
 * add **Activate All Tool Windows**: this action activates all available tool windows in the current project. Enable it in settings, then see the `Window > Activate All Tool Windows` menu item. It's like clicking on the "..." button on the left-side toolbar, then clicking on each available tool window.
