@@ -1,5 +1,9 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.17.1 (WIP)
+* code rework: replace usage of obsolete JetBrains APIs, improving compatibility with future IDEs.
+* add **File and Folder Properties**: right-click on a file or folder, chose `Properties`, and get information about its properties such as size, number of files and folders inside it, creation time, and modification time.
+
 ## 2024.16.1 (2024/10/21)
 * **Better Folder Icons** now supports the Kotlin Multiplatform OS folders from Extra Icons.
 * add **Commit Alert**: this inspection allows you to define keywords that will show a confirmation dialog before committing files containing any of those keywords. Per example, define the COMMIT_ALERT keyword, modify, delete or move one or multiple files containing it, then commit. A confirmation dialog will appear asking if you still want to commit.
