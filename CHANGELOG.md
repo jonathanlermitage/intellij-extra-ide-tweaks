@@ -1,8 +1,8 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.17.1 (WIP)
+## 2024.16.2 (2024/10/29)
+* fix potential component ID collisions when installing this plugin alongside other obfuscated plugins.
 * code rework: replace usage of obsolete JetBrains APIs, improving compatibility with future IDEs.
-* add **File and Folder Properties**: right-click on a file or folder, chose `Properties`, and get information about its properties such as size, number of files and folders inside it, creation time, and modification time.
 
 ## 2024.16.1 (2024/10/21)
 * **Better Folder Icons** now supports the Kotlin Multiplatform OS folders from Extra Icons.
