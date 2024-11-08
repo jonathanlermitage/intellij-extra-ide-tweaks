@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.17.1 (WIP)
+* **Properties** context menu: display file or folder properties (like size, number of containing files, etc.).
+
 ## 2024.16.2 (2024/10/29)
 * fix potential component ID collisions when installing this plugin alongside other obfuscated plugins.
 * code rework: replace usage of obsolete JetBrains APIs, improving compatibility with future IDEs.
