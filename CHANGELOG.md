@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.17.2 (WIP)
+* provide Chinese localization for the Properties context menu.
+
 ## 2024.17.1 (2024/11/16)
 * **Properties** context menu: display file or folder properties (like size, number of files, etc.).
 
