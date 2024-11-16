@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2024.17.1 (WIP)
+## 2024.17.1 (2024/11/16)
 * **Properties** context menu: display file or folder properties (like size, number of files, etc.).
 
 ## 2024.16.2 (2024/10/29)
