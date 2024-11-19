@@ -1,0 +1,25 @@
+# IDEA project files
+.idea/
+!/.idea/scopes/sources.xml
+!/.idea/icon.svg
+
+# File-based project format
+*.iws
+
+# Gradle
+/build/
+/.gradle/
+.gradletasknamecache
+
+# IntelliJ
+out/
+.idea_modules/
+.intellijPlatform/
+
+# Where 'gradle runIde' stores config
+.idea-sandbox*/
+
+*.ipr
+.DS_Store
+
+.vale-styles/
