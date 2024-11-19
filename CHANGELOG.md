@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.17.2 (2024/11/19)
+* hopefully fix `com.intellij.diagnostic.PluginException: Cannot init component state (...)` errors.
+
 ## 2024.17.1 (2024/11/16)
 * **Properties** context menu: display file or folder properties (like size, number of files, etc.).
 
