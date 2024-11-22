@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2024.18.1 (WIP)
+* **Better Folder Icons** now supports the `(.)log(s)` folders from Extra Icons.
+
 ## 2024.17.2 (2024/11/19)
 * hopefully fix `com.intellij.diagnostic.PluginException: Cannot init component state (...)` errors.
 * fix a potential licensing issue introduced by the previous plugin version.
