@@ -2,6 +2,7 @@
 
 ## 2024.18.1 (WIP)
 * **Better Folder Icons** now supports the `(.)log(s)` folders from Extra Icons.
+* **Prevent Opening of Sensitive Files** now supports read-only files.
 
 ## 2024.17.2 (2024/11/19)
 * hopefully fix `com.intellij.diagnostic.PluginException: Cannot init component state (...)` errors.
