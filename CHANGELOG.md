@@ -4,6 +4,7 @@
 * disable the `Always Excluded Folders` feature when loading projects with a huge number of modules (like IntelliJ Community sources, which has 1300 modules). The module limit is set to 20 to avoid any performance degradation. A future update will rework this feature.
 * rework the `Open Editors` tool window icon.
 * minor code rework.
+* [documentation](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/extra-ide-tweaks.html).
 
 ## 2024.18.1 (2024/12/13)
 * **Better Folder Icons** now supports the `(.)log(s)` folders from Extra Icons.
