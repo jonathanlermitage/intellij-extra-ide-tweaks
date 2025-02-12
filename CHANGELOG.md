@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2025.1.2 (WIP)
+* improve the plugin's compatibility range. The minimal IDE version is now 2023.3.1 instead of 2024.1.
+
 ## 2025.1.1 (2025/01/21)
 * disable the `Always Excluded Folders` feature when loading projects with a huge number of modules (like IntelliJ Community sources, which has 1300 modules). The module limit is set to 20 to avoid any performance degradation. A future update will rework this feature.
 * rework the `Open Editors` tool window icon.
