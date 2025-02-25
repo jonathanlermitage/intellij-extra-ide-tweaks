@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2025.1.2 (2025/01/25)
+## 2025.1.2 (2025/02/25)
 * improve the plugin's compatibility range. The minimal IDE version is now 2023.3.1 instead of 2024.1.
 
 ## 2025.1.1 (2025/01/21)
