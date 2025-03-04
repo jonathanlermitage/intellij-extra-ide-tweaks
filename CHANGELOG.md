@@ -3,6 +3,7 @@
 ## 2025.1.3 (WIP)
 * settings can now be loaded and saved by the **Backup and Sync** plugin.
 * prevent a `Slow operations are prohibited on EDT` warning on project loading with IntelliJ 2025.1 EAP when the `Always Excluded Folders` feature is enabled.
+* various code reworks.
 
 ## 2025.1.2 (2025/02/25)
 * improve the plugin's compatibility range. The minimal IDE version is now 2023.3.1 instead of 2024.1.
