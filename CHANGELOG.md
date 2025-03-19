@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2025.1.3 (WIP)
+## 2025.1.3 (2025/03/17)
 * settings can now be loaded and saved by the **Backup and Sync** plugin.
 * prevent a `Slow operations are prohibited on EDT` warning on project loading with IntelliJ 2025.1 EAP when the `Always Excluded Folders` feature is enabled.
 * various code reworks.
