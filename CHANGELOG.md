@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2025.1.4 (WIP)
+## 2025.1.4 (2025/04/14)
 * UI fixes in the plugin's settings panel.
 
 ## 2025.1.3 (2025/03/17)
