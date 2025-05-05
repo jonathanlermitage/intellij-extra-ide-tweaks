@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2025.1.5 (2025/05/06)
+* fix for error `Class initialization must not depend on services. Consider using instance of the service on-demand instead`.
+
 ## 2025.1.4 (2025/04/14)
 * UI fixes in the plugin's settings panel.
 
