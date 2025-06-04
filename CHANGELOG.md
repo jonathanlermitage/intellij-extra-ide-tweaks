@@ -3,7 +3,7 @@
 ## 2025.1.6 (WIP)
 * the minimal IDE version is now 2024.3 instead of 2023.3.1. This was needed to use newer JetBrains APIs and stay compatible with future IDEs (2025.2+).
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.2+).
-* the **Commit Alert** feature now ignores some common files like media files (pictures and videos, PDF files, Office files, etc.), archives, and binary files. This will greatly improve the performance when commiting these files. A future update will let you configure this.
+* the **Commit Alert** feature now ignores some common files like media files (pictures and videos, PDF files, Office files, etc.), archives, and binary files. This will greatly improve the performance when committing these files. A future update will let you configure this.
 
 ## 2025.1.5 (2025/05/06)
 * fix for error `Class initialization must not depend on services. Consider using instance of the service on-demand instead`.
