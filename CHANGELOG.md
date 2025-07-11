@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2025.1.9 (2025/07/11)
+* new fix for `SettingsService is in unnamed module of loader com.intellij.ide.plugins.cl.PluginClassLoader` errors.
+
 ## 2025.1.8 (2025/07/01)
 * fix the **purge IDE's plugin download cache** feature. Archive files for installed plugins no longer required by the IDE were not deleted.
 
