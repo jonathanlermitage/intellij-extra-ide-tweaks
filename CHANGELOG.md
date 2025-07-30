@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2025.1.10 (2025/07/30)
+* workaround for the [IDEA-376370](https://youtrack.jetbrains.com/issue/IDEA-376370/) issue.
+
 ## 2025.1.9 (2025/07/11)
 * new fix for `SettingsService is in unnamed module of loader com.intellij.ide.plugins.cl.PluginClassLoader` errors.
 
