@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2025.1.12 (WIP)
+## 2025.1.12 (2025/08/27)
 * prevent a potential IDE freeze when the `Always Excluded Folders` feature is enabled and the IDE is opening a very large project or many smaller projects that need a complete re-indexing.
 
 ## 2025.1.11 (2025/08/05)
