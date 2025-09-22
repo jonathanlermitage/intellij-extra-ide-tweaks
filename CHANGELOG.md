@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2025.1.13 (WIP)
+* fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.3+).
+
 ## 2025.1.12 (2025/08/27)
 * prevent a potential IDE freeze when the `Always Excluded Folders` feature is enabled and the IDE is opening a very large project or many smaller projects that need a complete re-indexing.
 
