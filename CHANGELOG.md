@@ -1,6 +1,9 @@
 # Extra IDE Tweaks Change Log
 
-## 2025.1.13 (WIP)
+## 2025.1.14 (WIP)
+* fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.3+).
+
+## 2025.1.13 (2025/10/08)
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.3+).
 
 ## 2025.1.12 (2025/08/27)
