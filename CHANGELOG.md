@@ -1,6 +1,7 @@
 # Extra IDE Tweaks Change Log
 
 ## 2025.1.15 (WIP)
+* this release adds compatibility with Huawei DevEco Studio and has been tested with DevEco Studio 5.1.1 (I don't have access to DevEco Studio 6 yet, but it should work). [See how to install plugin and activate your license in DevEco Studio](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/deveco-studio.html).
 * **highly recommended update**: prevent a potential IDE freeze when the `Always Excluded Folders` feature is enabled and the IDE is opening a very large project or many smaller projects that need a complete re-indexing, and too many modules are present. This is an improvement of the original fix provided in the 2025.1.12 (2025/08/27) plugin release. The `Always Excluded Folders` was disabled for projects with more than 20 modules, but the IDE may also invoke this function by passing the modules one by one. Per example, with a project with 1600 modules (like the IntelliJ Community sources), it invoked the function with the 1600 modules, so I blocked it, but just after that, it also invoked the function 1600 times, one time for each module, which may freeze the IDE for a long time. This is now fixed by caching (in memory) the number of modules for the opened project.
 
 ## 2025.1.14 (2025/10/16)
