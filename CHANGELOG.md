@@ -1,6 +1,7 @@
 # Extra IDE Tweaks Change Log
 
 ## 2025.1.16 (WIP)
+* the minimal IDE version is now 2024.3.
 * UI reworks in the plugin's settings panel.
 
 ## 2025.1.15 (2025/11/21)
