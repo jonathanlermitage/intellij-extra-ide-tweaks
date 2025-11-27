@@ -1,7 +1,7 @@
 # Extra IDE Tweaks Change Log
 
 ## 2025.1.16 (WIP)
-* the minimal IDE version is now 2024.3.
+* the minimal IDE version is now 2025.1.
 * UI reworks in the plugin's settings panel.
 * implement [#7](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/7): provide an assistant to find (via regular expressions) and register multiple entries to add to the `Always Excluded Folders` list.
 
