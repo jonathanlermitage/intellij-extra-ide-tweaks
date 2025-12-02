@@ -4,7 +4,7 @@
 * the minimal IDE version is now 2025.1.
 * UI reworks in the plugin's settings panel.
 * implement [#7](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/7): provide an assistant to find (via a regular expression) and register multiple entries to add to the `Always Excluded Folders` list.
-* **highly recommended update**: prevent an IDE freeze if an entry from the `Always Excluded Folders` list contains invalid characters.
+* **highly recommended update**: prevent an IDE freeze if an entry from the `Always Excluded Folders` list contains invalid filename characters.
 
 ## 2025.1.15 (2025/11/21)
 * this release adds compatibility with Huawei DevEco Studio and has been tested with DevEco Studio 5.1.1 (I don't have access to DevEco Studio 6 yet, but it should work). [See how to install plugin and activate your license in DevEco Studio](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/deveco-studio.html).
