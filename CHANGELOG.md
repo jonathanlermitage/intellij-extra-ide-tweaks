@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2025.1.16 (WIP)
+## 2026.1 (WIP)
 * the minimal IDE version is now 2025.1.4.1.
 * **highly recommended update**: prevent an IDE freeze if an entry from the `Always Excluded Folders` list contains invalid filename characters.
 * implement [#7](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/7): provide an assistant to find (via a regular expression) and register multiple entries to add to the `Always Excluded Folders` list.
