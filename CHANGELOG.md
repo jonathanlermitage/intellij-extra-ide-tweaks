@@ -1,7 +1,7 @@
 # Extra IDE Tweaks Change Log
 
 ## 2026.1.3 (WIP)
-* minor adaptation of the **purge IDE's plugin download cache** feature for 2026.1 IDEs.
+* minor improvement to the **purge IDE's plugin download cache** feature.
 
 ## 2026.1.2 (2026/01/20)
 * add an option to warn you when the **IDE's plugin download cache** is too large. A notification can be displayed to help you clear the cache.
