@@ -2,7 +2,7 @@
 
 ## 2026.1.4 (WIP)
 * **highly recommended update**: the `Always Excluded Folders` feature has been rewritten to avoid any thread lock, particularly with recent IDEs. It is also more efficient.
-* in previous plugin version, enabling or disabling `Extra IDE Tweaks > IDE Caches Management > Periodically check the Plugins Browser Cache` took effect after restarting the IDE. It's now instant.
+* in previous plugin version, enabling or disabling `File > Settings > Tools > Extra IDE Tweaks > IDE Caches Management > Periodically check the Plugins Browser Cache` took effect after restarting the IDE. It's now instant.
 * prevent `java.lang.UnsupportedOperationException: TRANSLUCENT translucency is not supported` error reports in Rider 2026.1 EAP.
 * code and i18n reworks.
 
