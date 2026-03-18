@@ -1,6 +1,9 @@
 # Extra IDE Tweaks Change Log
 
-## 2026.1.5 (WIP)
+## 2026.1.6 (WIP)
+* internal: code reworks.
+
+## 2026.1.5 (2026/03/11)
 * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
 
 ## 2026.1.4 (2026/02/20)
