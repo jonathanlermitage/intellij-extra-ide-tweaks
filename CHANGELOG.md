@@ -2,6 +2,7 @@
 
 ## 2026.1.6 (WIP)
 * internal: code reworks.
+* you might also be interested in the new Extra Tools Pack Lifetime and Extra Icons Lifetime plugins.
 
 ## 2026.1.5 (2026/03/11)
 * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
