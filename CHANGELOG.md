@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2026.1.6 (WIP)
+## 2026.1.6 (2026/03/30)
 * internal: code reworks.
 * you might also be interested in the new Extra Tools Pack Lifetime and Extra Icons Lifetime plugins.
 
