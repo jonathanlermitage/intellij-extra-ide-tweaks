@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2026.1.8 (WIP)
+## 2026.1.8 (2026/04/24)
 * internal: code reworks.
 
 ## 2026.1.7 (2026/04/08)
