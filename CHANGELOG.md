@@ -1,6 +1,11 @@
 # Extra IDE Tweaks Change Log
 
-## 2026.1.9 (WIP)
+## 2026.1.10 (2026/05/25)
+* make the license management more permissive.
+* minor performance improvements.
+* minor i18n reworks.
+
+## 2026.1.9 (2026/05/18)
 * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.2+).
 
 ## 2026.1.8 (2026/04/24)
