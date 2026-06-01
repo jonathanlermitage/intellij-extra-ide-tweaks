@@ -3,7 +3,7 @@
 ## 2026.1.11 (WIP)
 * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
 * minor code reworks.
-* minor reworks on the license management.
+* minor reworks on the license management, make fewer license checks.
 * generate fewer logs.
 
 ## 2026.1.10 (2026/05/25)
