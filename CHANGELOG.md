@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2026.1.11 (WIP)
+## 2026.1.11 (2026/06/15)
 * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
 * minor code reworks.
 * minor reworks on the license management, make fewer license checks.
