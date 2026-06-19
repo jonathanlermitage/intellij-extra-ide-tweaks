@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2026.1.12 (WIP)
+* fix the `Tools > Plugins...` menu action. It was broken for 2026.2+ IDEs.
+
 ## 2026.1.11 (2026/06/15)
 * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
 * minor code reworks.
