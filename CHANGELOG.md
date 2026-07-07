@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2026.1.13 (WIP)
+* internal: various code reworks.
+
 ## 2026.1.12 (2026/06/25)
 * fix [#9](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/9): can't open projects from Favorite Projects and Trusted Locations menu items in Rider.
 * fix the `Tools > Plugins...` menu action. It was broken for 2026.2+ IDEs.
