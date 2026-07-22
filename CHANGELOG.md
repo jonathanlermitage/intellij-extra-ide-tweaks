@@ -1,9 +1,9 @@
 # Extra IDE Tweaks Change Log
 
-## 2026.1.14 (WIP)
+## 2026.1.14 (2026/07/22)
 * enable compatibility with future 2026.3 IDEs.
 * minor performance improvement when the `Always Excluded Folders` feature is disabled. In previous versions, it was still reading the list of modules for each open project, even when this feature was disabled. Now, the `Always Excluded Folders` feature is completely disabled when configured accordingly.
- 
+
 ## 2026.1.13 (2026/07/17)
 * internal: various code reworks.
 
