@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2026.1.15 (WIP)
+* add a new experimental feature: the `Updates` tool window lists the dependencies of a Gradle project - libraries and Gradle plugins, whether they are declared in build scripts or in a version catalog - with their current version and the latest version available online. You can check for updates on demand and on project opening. I may add support for other build systems (including non-Java) later.
+
 ## 2026.1.14 (2026/07/22)
 * enable compatibility with future 2026.3 IDEs.
 * minor performance improvement when the `Always Excluded Folders` feature is disabled. In previous versions, it was still reading the list of modules for each open project, even when this feature was disabled. Now, the `Always Excluded Folders` feature is completely disabled when configured accordingly.
