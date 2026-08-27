@@ -1,8 +1,8 @@
 # Extra IDE Tweaks Change Log
 
 ## 2026.1.15 (WIP)
-* add a new experimental feature: the `Updates` tool window lists the dependencies of a Gradle project - libraries and Gradle plugins, whether they are declared in build scripts or in a version catalog - with their current version and the latest version available online. You can check for updates on demand and on project opening. I may add support for other build systems (including non-Java) later.
-* the experimental `Updates` tool window also supports Maven projects: it lists the dependencies read from the `pom.xml` files - libraries, BOMs, Maven plugins, build extensions, the parent POM, and the Maven distribution pinned by the Maven wrapper - with their current version and the latest version available online.
+* add a new experimental feature: the `Updates` tool window lists the dependencies of a Gradle project - libraries and Gradle plugins, whether they are declared in build scripts or in a version catalog - with their current version and the latest version available online. You can check for updates on demand and on project opening.
+* the experimental `Updates` tool window also supports Maven projects: it lists the dependencies read from the `pom.xml` files - libraries, BOMs, Maven plugins, build extensions, the parent POM, and the Maven distribution pinned by the Maven wrapper - with their current version and the latest version available online. I may add support for other build systems (including non-Java) later.
 * minor i18n reworks.
 
 ## 2026.1.14 (2026/07/22)
