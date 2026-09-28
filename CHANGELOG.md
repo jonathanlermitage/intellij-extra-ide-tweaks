@@ -2,6 +2,7 @@
 
 ## 2026.1.16 (WIP)
 * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.3+).
+* the experimental `Updates` tool window also supports Node.js projects: `package.json` content, Node.js and NPM versions.
 
 ## 2026.1.15 (2026/08/28)
 * add a new experimental feature: the `Updates` tool window lists the dependencies of a Gradle project - libraries and Gradle plugins, whether they are declared in build scripts or in a version catalog - with their current version and the latest version available online. You can check for updates on demand and on project opening.
