@@ -1,6 +1,6 @@
 # Extra IDE Tweaks Change Log
 
-## 2026.1.16 (WIP)
+## 2026.1.16 (2026/10/06)
 * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.3+).
 * the experimental `Updates` tool window now flags the Gradle and Maven dependencies and plugins that are relocated to other Maven coordinates, using the definitions of the [Old GroupIds Alerter - Maven Plugin](https://github.com/jonathanlermitage/oga-maven-plugin).
 * the experimental `Updates` tool window also supports Node.js projects: `package.json` content, Node.js and NPM versions.
