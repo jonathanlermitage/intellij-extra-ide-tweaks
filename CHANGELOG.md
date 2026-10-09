@@ -1,7 +1,7 @@
 # Extra IDE Tweaks Change Log
 
 ## 2026.1.17 (WIP)
-* the experimental `Updates` tool window can hide an update or relocation you don't care about: right-click a dependency and hide it permanently, for 1 day, or for 7 days. Hidden updates are remembered per project and are listed again once as a newer version is found.
+* the experimental `Updates` tool window can hide an update or relocation you don't care about: right-click a dependency and hide it permanently, for 1 day, or for 7 days. Hidden updates are remembered per project and are listed again once a newer version is found. You can also unhide an update at any moment.
 
 ## 2026.1.16 (2026/10/06)
 * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.3+).
