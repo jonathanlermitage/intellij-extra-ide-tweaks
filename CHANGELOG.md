@@ -1,5 +1,8 @@
 # Extra IDE Tweaks Change Log
 
+## 2026.1.17 (WIP)
+* the experimental `Updates` tool window can hide an update or relocation you don't care about: right-click a dependency and hide it permanently, for 1 day, or for 7 days. Hidden updates are remembered per project and are listed again once as a newer version is found.
+
 ## 2026.1.16 (2026/10/06)
 * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.3+).
 * the experimental `Updates` tool window now flags the Gradle and Maven dependencies and plugins that are relocated to other Maven coordinates, using the definitions of the [Old GroupIds Alerter - Maven Plugin](https://github.com/jonathanlermitage/oga-maven-plugin).
