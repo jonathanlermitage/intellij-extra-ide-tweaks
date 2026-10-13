@@ -4,6 +4,8 @@
 * the experimental `Updates` tool window can hide an update or relocation you don't care about: right-click a dependency and hide it permanently, for 1 day, or for 7 days. Hidden updates are remembered per project and are listed again once a newer version is found. You can also unhide an update at any moment.
 * the experimental `Updates` tool window now finds the Gradle, Maven, and Node.js files via the IDE filename index instead of walking the project tree, which is faster on large projects. So, the tool window and the check on project opening now wait for the indexing to complete.
 * the experimental `Updates` tool window now has settings to enable or disable support for Gradle, Maven, and Node.js projects at IDE level. See settings in `File > Settings > Tools > Extra IDE Tweaks > Updates Tool Window`.
+* the `Commit Alert` feature can now ignore files: configure a list of regex patterns matched against the file path relative to the project root.
+* the `Commit Alert` feature keywords can now be made case-insensitive via a new option (case-sensitive by default, as before).
 * various minor UI improvements.
 
 ## 2026.1.16 (2026/10/06)
